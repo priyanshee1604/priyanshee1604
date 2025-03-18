@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning JAVA.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyansheesisodiya1604@gmail.com) 
 
